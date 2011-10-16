@@ -1,5 +1,5 @@
 /**
- * ScrollViewEx v1.0 ~ Developed by Matteo Spinelli, http://cubiq.org
+ * OverflowScrollingFix v1.0 ~ Developed by Matteo Spinelli, http://cubiq.org
  * Released "AS IS" with no warranty whatsoever to the public domain
  */
 
